@@ -1,0 +1,58 @@
+
+
+.box{
+    width: 500px;
+    text-align: center;
+    padding: 7px;
+    border-color: aqua;
+    border: auto;
+    margin-left: 410px;
+    outline: none;
+    height: 22px;
+}
+
+.box-{
+    width: 500px;
+    /* text-align: center; */
+    padding: 7px;
+    border-color: aqua;
+    border: auto;
+    margin-bottom: 15px;
+    margin-left: 410px;
+    outline: none;
+    height: 22px;
+}
+
+.massage{
+    padding: 30px;
+    width: 453px;
+    height: 80px;
+    border-color: aqua;
+    margin: 0 auto 0 auto;
+    margin-left: 410px;
+    outline: none;
+    /* height: 22px; */
+}
+
+.send{
+    border: 1px solid aqua;
+    border-color: aqua;
+    margin-left: 410px;
+    background-color: none;
+    height: 35px;
+    color: aqua;
+    background-color:azure;
+    outline: none;
+}
+
+.h1{
+    text-align: center;
+    display: inline-block;
+}
+
+html{
+    /* border: 1px solid aqua; */
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+}
